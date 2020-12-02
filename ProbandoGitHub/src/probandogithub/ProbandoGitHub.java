@@ -7,7 +7,7 @@ package probandogithub;
 
 /**
  *
- * @author 
+ * @author
  */
 public class ProbandoGitHub {
 
@@ -16,7 +16,8 @@ public class ProbandoGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        JFrame view = new JFrame();
+        view.setVisible(true);
     }
-    
+
 }
